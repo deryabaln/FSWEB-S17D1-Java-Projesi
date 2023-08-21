@@ -1,0 +1,5 @@
+com/workintech/rest/RestApplication.class
+com/workintech/rest/entity/Animal.class
+com/workintech/rest/controller/AnimalController.class
+com/workintech/rest/mapping/AnimalResponse.class
+com/workintech/rest/validation/AnimalValidation.class
